@@ -27,18 +27,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=hikarukitamura-0&show_icons=true&show_icons=true&theme=radical&cache_seconds=0&rand=1" width="450" />
 </p>
 
-物理数学
-電磁気学 ★今ココ★
-特殊相対性理論
-解析力学
-量子力学
-一般相対性理論
-場の量子論
-弦理論（ボゾン的？）
-超弦理論
-M理論
-↓
-↓
-↓
-Theory of Everything...
+物理数学　→　電磁気学 ★今ココ★　→　特殊相対性理論　→　解析力学　→　量子力学　→　一般相対性理論　→　場の量子論　→　弦理論（ボゾン的？）　→　超弦理論　→　M理論　→→→→→　Theory of Everything...
 
