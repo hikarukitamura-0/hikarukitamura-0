@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://latex.codecogs.com/png.latex?\nabla\cdot\mathbf{E}=\frac{\rho}{\varepsilon_0}" alt="Maxwell 1" />
+<img src="https://latex.codecogs.com/png.latex?\nabla\cdot\mathbf{B}=0" alt="Maxwell 2" />
+<img src="https://latex.codecogs.com/png.latex?\nabla\times\mathbf{E}=-\frac{\partial\mathbf{B}}{\partial t}" alt="Maxwell 3" />
+<img src="https://latex.codecogs.com/png.latex?\nabla\times\mathbf{B}=\mu_0\mathbf{J}+\mu_0\varepsilon_0\frac{\partial\mathbf{E}}{\partial t}" alt="Maxwell 4" />
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hikarukitamura-0&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=hikarukitamura-0&show_icons=true&locale=jp&theme=chartreuse-dark" alt="ovi" width="410" />
