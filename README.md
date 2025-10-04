@@ -20,11 +20,8 @@ Here are some ideas to get you started:
 <img src="https://latex.codecogs.com/png.latex?\color{red}\nabla\times\mathbf{E}=-\frac{\partial\mathbf{B}}{\partial%20t}" alt="Maxwell 3" />
 <img src="https://latex.codecogs.com/png.latex?\color{red}\nabla\times\mathbf{B}=\mu_0\mathbf{J}+\mu_0\varepsilon_0\frac{\partial\mathbf{E}}{\partial%20t}" alt="Maxwell 4" />
 
-
+## プロフィール
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hikarukitamura-0&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=hikarukitamura-0&show_icons=true&locale=jp&theme=chartreuse-dark" alt="ovi" width="410" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=hikarukitamura-0&theme=juicyfresh&no-bg=true" />
-
+![Kitamura's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikarukitamura-0&show_icons=true&theme=radical)
