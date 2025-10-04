@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://latex.codecogs.com/png.latex?\nabla\cdot\mathbf{E}=\frac{\rho}{\varepsilon_0}" alt="Maxwell 1" />
-<img src="https://latex.codecogs.com/png.latex?\nabla\cdot\mathbf{B}=0" alt="Maxwell 2" />
+<img src="https://latex.codecogs.com/png.latex?\color{red}\nabla\cdot\mathbf{E}=\frac{\rho}{\varepsilon_0}" alt="Maxwell 1" />
+<img src="https://latex.codecogs.com/png.latex?\color{red}\nabla\cdot\mathbf{B}=0" alt="Maxwell 2" />
 <img src="https://latex.codecogs.com/png.latex?\nabla\times\mathbf{E}=-\frac{\partial\mathbf{B}}{\partial t}" alt="Maxwell 3" />
 <img src="https://latex.codecogs.com/png.latex?\nabla\times\mathbf{B}=\mu_0\mathbf{J}+\mu_0\varepsilon_0\frac{\partial\mathbf{E}}{\partial t}" alt="Maxwell 4" />
 
