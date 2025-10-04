@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ## プロフィール
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hikarukitamura-0&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hikarukitamura-0&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=0" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hikarukitamura-0&show_icons=true&theme=radical&cache_seconds=0" width="450" />
+</p>
 
-![Kitamura's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikarukitamura-0&show_icons=true&theme=radical)
