@@ -17,7 +17,7 @@ Webアプリ・ハードウェア連携・計測システムの開発をして�
 | [eyes-dont-lie](https://github.com/hikarukitamura-0/eyes-dont-lie) | DCON2026（リーダー兼ソフトウェア担当）。タイピングやマウスの動きから作業のしすぎを検知して休憩を促す | Python |
 | [Hack-U-2025](https://github.com/hikarukitamura-0/Hack-U-2025) | Hack U KOSEN 2025（リーダー兼開発担当）。趣味をマッチングして新しい趣味を見つけるアプリ | React / TypeScript |
 | [plan-alpha-beta](https://github.com/hikarukitamura-0/plan-alpha-beta) | 自然言語生成AI「αβ」（開発中） | Python |
-| [hokusei](https://github.com/hikarukitamura-0/hokusei) | 北誠建設株式会社のコーポレートサイト。個人で受注し、制作・運用中 | HTML / CSS / JavaScript |
+| [hokusei](https://hokuseikensetsu.co.jp/#hero) | 北誠建設株式会社のコーポレートサイト。個人で受注し、制作・運用中 | HTML / CSS / JavaScript |
 
 ### 💻 Skills
 Python / TypeScript / JavaScript / React / Node.js / HTML / CSS / M5Stack
