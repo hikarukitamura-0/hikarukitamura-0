@@ -1,25 +1,3 @@
-## Maxwell eqs.
-
-<!--
-**hikarukitamura-0/hikarukitamura-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://latex.codecogs.com/png.latex?\color{red}\nabla\cdot\mathbf{E}=\frac{\rho}{\varepsilon_0}" alt="Maxwell 1" />
-<img src="https://latex.codecogs.com/png.latex?\color{red}\nabla\cdot\mathbf{B}=0" alt="Maxwell 2" />
-<img src="https://latex.codecogs.com/png.latex?\color{red}\nabla\times\mathbf{E}=-\frac{\partial\mathbf{B}}{\partial%20t}" alt="Maxwell 3" />
-<img src="https://latex.codecogs.com/png.latex?\color{red}\nabla\times\mathbf{B}=\mu_0\mathbf{J}+\mu_0\varepsilon_0\frac{\partial\mathbf{E}}{\partial%20t}" alt="Maxwell 4" />
-
 ## プロフィール
 
 <p float="left">
@@ -27,23 +5,29 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=hikarukitamura-0&show_icons=true&show_icons=true&theme=radical&cache_seconds=0&rand=1" width="450" />
 </p>
 
-物理数学　→　電磁気学　→　特殊相対性理論　→　解析力学　→　一般相対性理論 ★今ココ★　→ 量子力学　→　場の量子論　→　弦理論（ボゾン的？）　→　超弦理論　→　M理論　→→→→→　Theory of Everything...
+## 北村 光瑠 / Hikaru Kitamura
+舞鶴高専 電気情報工学科 3年
+Webアプリ・ハードウェア連携・計測システムの開発をしています。
+プログラミングコンテスト部 副部長。
 
-### 自己紹介
-舞鶴高専 電気情報工学科二年の北村光瑠と申します。
-プログラミングはそこまで得意ではありません。
+### 🛠 Works
+| 作品 | 内容 | 技術 |
+|---|---|---|
+| [Progressia](リンク) | 高専プロコン2025。GitHubの活動をRPGのダンジョンマップとして可視化 | React / Node.js / WebSocket / M5Stack |
+| [eyes-dont-lie](https://github.com/hikarukitamura-0/eyes-dont-lie) | DCON2026（リーダー兼ソフトウェア担当）。タイピングやマウスの動きから作業のしすぎを検知して休憩を促す | Python |
+| [Hack-U-2025](https://github.com/hikarukitamura-0/Hack-U-2025) | Hack U KOSEN 2025（リーダー兼開発担当）。趣味をマッチングして新しい趣味を見つけるアプリ | React / TypeScript |
+| [plan-alpha-beta](https://github.com/hikarukitamura-0/plan-alpha-beta) | 自然言語生成AI「αβ」（開発中） | Python |
+| [hokusei](https://github.com/hikarukitamura-0/hokusei) | 北誠建設株式会社のコーポレートサイト。個人で受注し、制作・運用中 | HTML / CSS / JavaScript |
 
-### 好きなもの
-<br>
-物理が非常に好きで、2026年第73回 応用物理学会に現地参加予定です。
-<br>
-とくに量子重力について興味があります。
-<br>
-あと、好きな食べ物はラーメンです。
+### 💻 Skills
+Python / TypeScript / JavaScript / React / Node.js / HTML / CSS / M5Stack
 
-<br>
-<br>
-<br>
-<br>
+### 🔬 Physics
+物理が好きで、大阪大学と共同でフェムト秒レーザーの研究室を立ち上げています。
+今は高強度レーザーを使った強場物理に取り組んでいて、計測系の制御やデータ解析にもプログラミングを使っています。
 
+趣味で理論物理も勉強しています。
+物理数学 → 電磁気学 → 特殊相対論 → 解析力学 → 一般相対論 ★今ココ★ → 量子力学 → 場の量子論 → 弦理論 → … → Theory of Everything
 
+### 🍜 Favorite
+ラーメン
